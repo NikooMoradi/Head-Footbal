@@ -2,8 +2,7 @@
 
 This project, inspired by the game Head Football LaLiga Soccer, is a fun and interactive game developed as part of a computer programming course at SUT. The game features graphical animations created using SDL 2, a popular multimedia library for C++.
 <p align="center">
-  <img src="https://github.com/Alireza1044/voice-conversion-ios/blob/master/demo_dark.png?raw=true" width="300">
-  <img src="https://github.com/Alireza1044/voice-conversion-ios/blob/master/demo_light.png?raw=true" width="300">
+  <img src="https://github.com/NikooMoradi/Head-Footbal/blob/ba7173c5d23220ce99463aaabc6fc07e0b1d2638/mainmenu_theme1.png)?raw=true" width="300">
 </p>
 In this game, players control unique characters and engage in exciting one-on-one football matches. The objective is to outscore your opponent by strategically maneuvering your character and using special powers to score goals. The game offers a thrilling and fast-paced gameplay experience, with vibrant visuals and engaging sound effects.
 
