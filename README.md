@@ -19,6 +19,6 @@ Key features of the game include:
 
 ## Usage
 
-First you need to install Codeblocks and SDL2, then download the whole project. opent the main.cpp file with Codeblocks and then simply just run the program.
+First you need to install Codeblocks and SDL2, then download the whole project. open the main.cpp file with Codeblocks and then simply just run the program.
 
 Whether you're a football fan or simply looking for a fun gaming experience, this project is sure to provide hours of entertainment. Experience the thrill of Head Football LaLiga Soccer-inspired gameplay and test your skills on the virtual football field!
